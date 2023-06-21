@@ -1,0 +1,147 @@
+newgame mapFile.txt
+newgame mapFile.txt
+putViro 0 0
+newround
+ls 0 vi
+ls 0 fi
+move 4
+newgame mapFile.txt
+putViro 0 0
+newround
+ls 0 vi
+ls 0 fi
+move 1
+ls 0 ge
+newgame mapFile.txt
+putViro 0 4
+newround
+ls 0 vi
+ls 0 fi
+move 3
+ls 0 ma
+newgame mapFile.txt
+putViro 0 0
+putAg 3 1
+newround
+ls 0 vi
+ls 0 fi
+move 1
+ls 0 ef
+newgame mapFile.txt
+putViro 0 0
+putEq 0 2
+ls 0 vi
+ls 0 fi
+move 2
+pickup 0
+ls 0 eq
+newgame mapFile.txt
+putViro 0 0
+putAg 0 1
+move 1
+ls 0 vi
+craft 0
+ls 0 ag
+newgame mapFile.txt
+putViro 0 6
+putViro 1 6
+addEq 1 1
+addAgCraft 0 1
+newround
+ls 0 vi
+ls 0 pl
+ls 1 vi
+ls 1 pl
+anoint 1 0
+ls 1 ef
+newgame mapFile.txt
+putViro 0 6
+putViro 1 6
+addEq 1 0
+addAgCraft 0 1
+newround
+ls 0 vi
+ls 0 pl
+ls 1 vi
+ls 1 pl
+annoint 0 0
+ls 0 ef
+ls 1 ef
+newgame mapFile.txt
+putViro 0 5
+putViro 1 5
+addAgEff 2 1
+addEq 2 1
+new round
+ls 0 pl
+ls 1 vi
+ls 1 eq
+stealeq 1 0
+ls 1 eq
+newgame mapFile.txt
+putViro 0 6
+addEq 0 0
+ls 0 vi
+ls 0 fi
+drop 0
+ls 0 eq
+newgame mapFile.txt
+putViro 0 0
+addAgEff 0 0
+ls 0 ef
+newround
+newround
+newround
+newround
+newround
+ls 0 ef
+newgame mapFile.txt
+putViro 0 5
+putViro 1 6
+addAgEff 3 0
+addAgEff 1 1
+newround
+ls 0 vi
+ls 0 fi
+ls 0 ef
+newround 
+ls 1 ef
+newgame mapFile.txt
+putViro 0 6
+putViro 1 6
+addEq 3 0
+addAgEff 3 1
+ls 0 vi
+ls 0 fi
+ls 1 ef
+attack 0
+newgame mapFile.txt
+putViro 0 6
+addEq 1 0
+addEq 2 0
+addEq 3 0
+putEq 0 6
+newround
+ls 0 vi
+ls 0 fi
+pickup 1
+ls 0 eq
+newgame mapFile.txt
+put 0 6
+put 1 6
+addEq 2 1
+newround
+ls 0 vi
+ls 0 fi
+stealeq 1 0
+ls 0 ef
+newgame mapFile.txt
+putViro 0 0
+putAg 1 1
+setMat a -20 0
+setMat n -20 0
+move 1
+ls 0 vi
+ls 0 fi
+craft 0
+ls 0 ag

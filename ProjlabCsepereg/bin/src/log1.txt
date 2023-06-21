@@ -1,0 +1,3 @@
+Logging is on.
+The game has been saved.
+The game has been loaded.

@@ -1,0 +1,147 @@
+The map has been generated.
+The map has been generated.
+Virologist 0 has been put to Field
+Newround
+ls
+ls
+Moved to Field
+The map has been generated.
+Virologist 0 has been put to Field
+Newround
+ls
+ls
+Moved to Laboratory
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Newround
+ls
+ls
+Moved to Warehouse
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Field 1 got item BearDance
+Newround
+ls
+ls
+Moved to Laboratory
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Shelter got item Gloves
+ls
+ls
+Moved to Shelter
+Picked up Gloves
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Field 1 got item Chorea
+Moved to Laboratory
+ls
+Crafted Chorea
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Virologist 1 has been put to Field
+Added Cloak to Virologist 1
+Added Chorea to Virologist 1
+Newround
+ls
+ls
+ls
+ls
+Anointed Virologist 1 with Chorea
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Virologist 1 has been put to Field
+Added Cloak to Virologist 0
+Added Chorea to Virologist 1
+Newround
+ls
+ls
+ls
+ls
+Anointed Virologist 0 with Chorea
+ls
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Virologist 1 has been put to Field
+Virologist 1 got Paralyze effect 
+Added Sack to Virologist 1
+Newround
+ls
+ls
+ls
+Stole Sack2 from Virologist 1
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Added Gloves to Virologist 0
+ls
+ls
+Dropped Gloves0
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Virologist 0 got Chorea effect 
+ls
+Newround
+Newround
+Newround
+Newround
+Newround
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Virologist 1 has been put to Field
+Virologist 0 got BearDance effect 
+Virologist 1 got Protect effect 
+Newround
+ls
+ls
+ls
+Newround
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Virologist 1 has been put to Field
+Added Axe to Virologist 0
+Virologist 1 got BearDance effect 
+ls
+ls
+ls
+Virologist 1 killed
+The map has been generated.
+Virologist 0 has been put to Field
+Added Cloak to Virologist 0
+Added Sack to Virologist 0
+Added Axe to Virologist 0
+Field got item Gloves
+Newround
+ls
+ls
+Failed, virologist's item collection is full
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Virologist 1 has been put to Field
+Added Sack to Virologist 1
+Newround
+ls
+ls
+Failed, virologist 1 is not paralyzed 
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Field 1 got item Protect
+Aminoacid is 20
+Nucleotid is 20
+Moved to Laboratory
+ls
+ls
+Crafted Protect
+ls

@@ -1,0 +1,35 @@
+The map has been generated.
+The map has been generated.
+Virologist 0 has been put to Field
+Newround
+ls
+ls
+Moved to Field
+The map has been generated.
+Virologist 0 has been put to Field
+Newround
+ls
+ls
+Moved to Laboratory
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Newround
+ls
+ls
+Moved to Warehouse
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Field 1 got item BearDance
+Newround
+ls
+ls
+Moved to Laboratory
+ls
+The map has been generated.
+Virologist 0 has been put to Field
+Shelter got item Gloves
+ls
+ls
+Moved to Shelter
